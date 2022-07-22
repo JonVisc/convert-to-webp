@@ -1,0 +1,22 @@
+{
+  "name": "convert-to-webp",
+  "version": "0.0.1",
+  "description": "Converts JPG and PNG to WEBP",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webp",
+    "png",
+    "jpg",
+    "jpeg"
+  ],
+  "author": "Jon Romanowski",
+  "license": "ISC",
+  "dependencies": {
+    "imagemin": "^8.0.1",
+    "imagemin-webp": "^7.0.0"
+  }
+}
